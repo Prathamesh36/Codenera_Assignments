@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignmets/Assignmets.iml" filepath="$PROJECT_DIR$/Assignmets/Assignmets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorAssignment/CalculatorAssignment.iml" filepath="$PROJECT_DIR$/CalculatorAssignment/CalculatorAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codenera1.iml" filepath="$PROJECT_DIR$/Codenera1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramwork/CollectionFramwork.iml" filepath="$PROJECT_DIR$/CollectionFramwork/CollectionFramwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Company Assignment/Company Assignment.iml" filepath="$PROJECT_DIR$/Company Assignment/Company Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparableAndComparator/ComparableAndComparator.iml" filepath="$PROJECT_DIR$/ComparableAndComparator/ComparableAndComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA Practice/DSA Practice.iml" filepath="$PROJECT_DIR$/DSA Practice/DSA Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateAndTime/DateAndTime.iml" filepath="$PROJECT_DIR$/DateAndTime/DateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionAndThreading/ExceptionAndThreading.iml" filepath="$PROJECT_DIR$/ExceptionAndThreading/ExceptionAndThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaAndStreamAPI/LambdaAndStreamAPI.iml" filepath="$PROJECT_DIR$/LambdaAndStreamAPI/LambdaAndStreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlacementQue/PlacementQue.iml" filepath="$PROJECT_DIR$/PlacementQue/PlacementQue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Topicwise Quetions/Topicwise Quetions.iml" filepath="$PROJECT_DIR$/Topicwise Quetions/Topicwise Quetions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wipro/Wipro.iml" filepath="$PROJECT_DIR$/Wipro/Wipro.iml" />
+    </modules>
+  </component>
+</project>
