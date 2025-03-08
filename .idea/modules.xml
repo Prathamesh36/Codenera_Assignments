@@ -14,13 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/ExceptionAndThreading/ExceptionAndThreading.iml" filepath="$PROJECT_DIR$/ExceptionAndThreading/ExceptionAndThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaAndStreamAPI/LambdaAndStreamAPI.iml" filepath="$PROJECT_DIR$/LambdaAndStreamAPI/LambdaAndStreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mycompany/MyCompany.iml" filepath="$PROJECT_DIR$/Mycompany/MyCompany.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlacementQue/PlacementQue.iml" filepath="$PROJECT_DIR$/PlacementQue/PlacementQue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Topicwise Quetions/Topicwise Quetions.iml" filepath="$PROJECT_DIR$/Topicwise Quetions/Topicwise Quetions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Wipro/Wipro.iml" filepath="$PROJECT_DIR$/Wipro/Wipro.iml" />
     </modules>
   </component>
 </project>
