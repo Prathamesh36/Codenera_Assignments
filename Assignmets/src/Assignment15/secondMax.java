@@ -7,9 +7,11 @@ public class secondMax {
 
     public void smax(){
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Enter your array size: ");
         int s = sc.nextInt();
         int a[] = new int[s];
+
         System.out.print("Enter Array Elemets: ");
         for(int i=0;i<s;i++){
             a[i]=sc.nextInt();
