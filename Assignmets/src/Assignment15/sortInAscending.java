@@ -1,4 +1,4 @@
-/*Q3.Wap enter an array and sort that in accending order.*/
+/*Q3.Wap enter an array and sort that in ascending order.*/
 package Assignment15;
 
 import java.util.Scanner;
