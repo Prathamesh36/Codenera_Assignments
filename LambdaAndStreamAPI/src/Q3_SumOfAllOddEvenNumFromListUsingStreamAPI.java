@@ -11,7 +11,7 @@ public class Q3_SumOfAllOddEvenNumFromListUsingStreamAPI {
         al.add(7);
         al.add(9);
         System.out.println("ArrayList: "+al);
-        int oddSum = al.stream().filter(a -> a%2==1).mapToInt(Integer::intValue).sum();
+        int oddSum = al.stream().filter(x -> x%2==1).mapToInt(Integer::intValue).sum();
         int evenSum = al.stream().filter(a -> a%2==0).mapToInt(Integer::intValue).sum();
         System.out.println("Odd Number Sum: "+oddSum);
         System.out.println("Even Number Sum: "+evenSum);

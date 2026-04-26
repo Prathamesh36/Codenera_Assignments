@@ -5,13 +5,8 @@ import java.util.List;
 
 public class Q2_ConvertListOfStringToUpperAndLowerCaseStreamAPI {
     public static void main(String[] args) {
-        ArrayList<String> al = new ArrayList<>();
-        al.add("Codenera");
-        al.add("Pune");
-        al.add("Mumbai");
-        al.add("Java");
-        al.add("Python");
-        al.add("React");
+        List<String> al = List.of("Codenera", "Pune", "Mumbai", "Java", "Python", "React");
+
         System.out.println("ArrayList: "+al);
         List<String> uppercase = al.stream().map(String::toUpperCase).toList();
         List<String> lowercase = al.stream().map(String::toLowerCase).toList();

@@ -14,10 +14,11 @@ public class Q6_SortListOfStringInAscAndDescUsingStreamAPI {
         al.add("Python");
         al.add("React");
         System.out.println("ArrayList: "+al);
-        List<String> ascSort = al.stream().sorted().toList();
-        List<String> descSort = al.stream().sorted(Comparator.reverseOrder()).toList();
-        System.out.println("Ascending Sort: "+ascSort);
-        System.out.println("Ascending Sort: "+descSort);
+        List<String> ans = al.stream().sorted().toList();
+        List<String> ans1 = al.stream().sorted(Comparator.reverseOrder()).toList();//
+        System.out.println("Ascending Sort: "+ans);
+        System.out.println("Ascending Sort: "+ans1);
+
 
     }
 }

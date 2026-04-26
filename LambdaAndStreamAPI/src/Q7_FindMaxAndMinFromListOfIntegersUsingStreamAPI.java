@@ -11,9 +11,9 @@ public class Q7_FindMaxAndMinFromListOfIntegersUsingStreamAPI {
         al.add(7);
         al.add(9);
         System.out.println("ArrayList: "+al);
-        Optional<Integer> max=al.stream().max(Integer::compareTo);
+        int max=al.stream().mapToInt(Integer::intValue).max().orElse(Integer.MIN_VALUE);
         Optional<Integer> min=al.stream().min(Integer::compareTo);
-        System.out.println("Max element: "+max.get());
+        System.out.println("Max element: "+max);
         System.out.println("Min element: "+min.get());
     }
 }
